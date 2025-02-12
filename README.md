@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **zeedotdev@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/RESUMES/ZeeResume.pdf](file:///D:/RESUMES/ZeeResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
