@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Front-End Software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeali&label=Profile%20views&color=0e75b6&style=flat" alt="zeeali" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Digital Marketing**
 
-- 🌱 I’m currently learning **ReactsJS, NodeJS, MongoDB**
+- 🌱 I’m currently Working on **ReactsJS, TypeScript, TailwindCSS**
 
 - 👯 I’m looking to collaborate on **Smart Digital Marketing**
 
